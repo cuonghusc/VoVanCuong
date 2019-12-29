@@ -1,0 +1,8 @@
+.tieu-de{
+	padding-top: 20px;
+	text-align: center;
+	color: red
+}
+.chuc-nang,.loc-chung-chi{
+	display: flex;
+}
